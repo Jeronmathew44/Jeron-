@@ -31,12 +31,6 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DalinMathew/AutoFilterBotV3&branch=master&name=boythe)
 
-### Render TO Button 
-
-<a href="https://render.com/deploy?repo=https://github.com/DalinMathew/AutoFilterBotV3">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a>
-
 #### Hard Way
 ```bash
 # Create virtual environment
